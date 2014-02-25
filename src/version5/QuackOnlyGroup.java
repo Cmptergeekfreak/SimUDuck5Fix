@@ -11,6 +11,7 @@ package version5;
  * @author Joe
  */
 public interface QuackOnlyGroup {
+    
     public abstract QuackBehavior getQuackbehavior();
     
     public abstract void setQuackbehavior(QuackBehavior quackbehavior);
