@@ -48,7 +48,5 @@ public class MallardDuck extends Duck implements FlyAndQuackGroup {
     	System.out.println("I'm a Mallard Duck");
     }
 
-    
-        
-	
+          
 }
